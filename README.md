@@ -44,7 +44,6 @@ An interactive Tableau dashboard summarizes key business insights including:
 
 📸 Preview:
 ![Netflix Dashboard](./dashboard-preview.png)  
-*(Replace with actual screenshot or Tableau Public link)*
 
 ## 📄 SQL Questions Solved
 
